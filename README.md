@@ -1,2 +1,2 @@
 # LIFI
-implement LIFI communcication with Arduino
+implement LIFI communcication with Arduino.
